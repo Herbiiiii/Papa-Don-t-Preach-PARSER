@@ -1,0 +1,15 @@
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+
+# Выходные файлы
+*.csv
+!TSUM Collection Panel Male 15 (4).csv
+
+# Персональные файлы
+links.txt
+
+# Временные файлы
+*.tmp
+*.bak
