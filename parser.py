@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Парсер для страницы Papa Don't Preach
-Извлекает данные о товарах и создает CSV файл в формате TSUM
-"""
-
 import re
 import json
 import csv
